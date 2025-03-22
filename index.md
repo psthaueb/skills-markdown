@@ -2,6 +2,12 @@
 
 This will be the index file of everything
 
+# What Needs To Be Done
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ## Starting Here
 
 In the next section we will add an image.
