@@ -7,6 +7,7 @@ This will be the index file of everything
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
+- [ ] Practice once
 
 ## Starting Here
 
