@@ -10,4 +10,15 @@ In the next section we will add an image.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-#### Small header
+## Code examples
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+and 
+
+```javascript
+var myVar = "Hello, world!";
+```
